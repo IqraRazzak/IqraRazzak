@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IqraRazzak
 - 👀 I’m interested in Cloud engineering
 - 🌱 I’m currently learning Devops Engineer
-- 💞️ I’m looking to collaborate on Devops  Projects 
-- 📫 How to reach me at iqrafatima224@gmail.com
+- 💞️ I’m looking to collaborate on Devops  Projects and can assist devops Engineers on their projects.
+- 📫 you can reach me at iqrafatima224@gmail.com
   
 
 <!---
