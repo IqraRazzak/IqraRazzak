@@ -1,12 +1,8 @@
 👋 Welcome to my profile!
+
 🧑‍💼 About me 
 
 🎯 I'm **Iqra Fatima**, a dynamic and results-driven **Global IT Recruiter**
-
-📫 **Let's connect!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/iqra-fatima-71724315b)  
-🌐 [GitHub](https://github.com/IqraRazzak)  
-📧 iqrafatima224@gmail.com
 
 🛠 I am an experienced Global IT Recruiter with over 4 years of success in sourcing top-tier tech talent for Middle Eastern and US markets.
 
@@ -33,6 +29,11 @@ Languages: Fluent in English, Hindi, Urdu | Basic Arabic, Persian, Telugu
 M.Sc. in Mathematics & Computer Science – Osmania University
 
 B.Sc. in Mathematics, Statistics & Computer Science – Osmania University
+
+📫 **Let's connect!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/iqra-fatima-71724315b)  
+🌐 [GitHub](https://github.com/IqraRazzak)  
+📧 iqrafatima224@gmail.com
 <!---
 IqraRazzak/IqraRazzak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
